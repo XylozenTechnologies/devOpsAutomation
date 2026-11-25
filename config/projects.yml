@@ -22,7 +22,7 @@ projects:
   # Migrated to Vercel: https://xylozentech.com / https://www.xylozentech.com
   # ============================================================================
   # xylozen:
-  #   repository: "Byte-Bandits-India/Xylozen"
+  #   repository: "XylozenTechnologies/Xylozen"
   #   type: "nextjs-standalone"
   #   environment: "production"
   #   allowed_branches:
@@ -80,7 +80,7 @@ projects:
   # Frontend: Vercel (https://crm.xylozentech.com)
   # ============================================================================
   dashboard-prod-backend:
-    repository: "Byte-Bandits-India/Xylozen-crm"
+    repository: "XylozenTechnologies/Xylozen-crm"
     type: "node"
     environment: "production"
     allowed_branches:
